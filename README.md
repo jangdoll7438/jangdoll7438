@@ -57,6 +57,16 @@
   ```bash
   pip install matplotlib
 </summary>
+
+
+#### 📊 실행
+
+코드를 실행 시키면 국가를 선택 할 수 있는 GUI가 나타납니다.
+
+![image](https://github.com/user-attachments/assets/0901d8a4-577a-4190-b249-bc6b3705dd43)
+
+#### 
+
     
 
 <!--
