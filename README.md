@@ -47,6 +47,9 @@
 
 2. **GUI**  
    - 버튼을 통해 국가를 선택 할 수 있음.
+  
+3. **모듈화**
+   - 모듈화를 통해 코드의 효율성을 증가시킴.
      
 
 
@@ -68,6 +71,26 @@
 국가 버튼을 누르면 팝업이 뜨면서 국기를 그리기 시작합니다.
 
 ![image](https://github.com/user-attachments/assets/80547c9a-f48b-4a8d-941d-97293f821913)
+
+퀴즈 버튼을 클릭하면 국기가 그려지고 답을 적을 수 있는 팝업이 나타납니다.
+
+![image](https://github.com/user-attachments/assets/85e92726-b7e9-4d5e-a626-ee4ce471a860)
+
+## 🤝 Contributing
+
+아직 코딩이 서툴고 어렵습니다. 도움을 주신다면 
+
+1. **버그 보고**: 버그가 발생했다면 [이슈를 열어](https://github.com/kjw06171/kim-ji-won/issues) 버그를 보고해 주세요.
+2. **풀 리퀘스트 제출**: 새로운 기능을 추가하거나 기존 문제를 해결하고 싶다면, 레포지토리를 포크한 후 풀 리퀘스트를 제출해 주세요.
+
+#### 기여 방법
+1. 레포지토리를 포크(Fork)합니다.
+2. 새 브랜치를 생성합니다. (`git checkout -b feature/your-feature`)
+3. 변경 사항을 커밋합니다. (`git commit -am 'Add some feature'`)
+4. 브랜치에 푸시(Push)합니다. (`git push origin feature/your-feature`)
+5. 풀 리퀘스트를 생성합니다.
+
+
 
 
 
