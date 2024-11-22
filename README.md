@@ -27,6 +27,36 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangdoll7438&layout=compact&bg_color=180,6a1616,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
+
+
+    
+ ## 🧑‍💻 DRAW FLAG
+#### 📋 프로젝트 소개
+
+  
+이 프로젝트는 다양한 나라의 국기를 터틀 그래픽을 통해 그리는 것 입니다. GUI를 통해 사용자가 쉽게 국가를 선택할 수 있도록 하였습니다.
+또한 국기를 보고 국가의 이름을 맞추는 문제를 추가하였습니다.
+
+
+#### 💡 프로젝트 목표 
+
+
+1. **국기 그리기**  
+   - 터틀 그래픽을 활용하여 국기를 그림.
+   - 한 국기를 모두 그린 후 연속적으로 다른 국기를 그릴 수 있어야함.
+
+2. **GUI**  
+   - 버튼을 통해 국가를 선택 할 수 있음.
+     
+
+
+  
+#### 1️⃣ 환경 설정  
+- Python 3.x가 설치된 환경에서 실행 가능합니다.  
+- 필요한 라이브러리를 설치합니다:  
+  ```bash
+  pip install matplotlib
+</summary>
     
 
 <!--
