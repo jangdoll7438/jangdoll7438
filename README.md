@@ -65,7 +65,11 @@
 
 ![image](https://github.com/user-attachments/assets/0901d8a4-577a-4190-b249-bc6b3705dd43)
 
-#### 
+국가 버튼을 누르면 팝업이 뜨면서 국기를 그리기 시작합니다.
+
+![image](https://github.com/user-attachments/assets/80547c9a-f48b-4a8d-941d-97293f821913)
+
+
 
     
 
